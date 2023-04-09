@@ -37,6 +37,5 @@ public class Recipe {
     
     public String toString() {
         return this.name + ", cooking time: " + this.time;
-    }
-    
+    }  
 }
